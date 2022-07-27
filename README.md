@@ -7,7 +7,7 @@ Although we ourselves do not attempt to track your information, our products may
 
 Our third parties' privacy policy are as follows:
 
-Unity - https://unity3d.com/legal/privacy-policy
+Unity - https://unity.com
 
 Admob - https://policies.google.com/privacy
 
