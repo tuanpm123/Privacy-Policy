@@ -1,4 +1,5 @@
 Privacy Policy
+
 We strictly respect your privacy. We do not record, store, collect information that identifies you as an individual. We do not attempt to obtain any sensitive information. If you contact us via email or other social media directly, we may keep a copy of that though.
 
 We will not sell, trade or disclose any personal information you might give us.
